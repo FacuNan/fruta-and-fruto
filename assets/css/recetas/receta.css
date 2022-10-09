@@ -1,0 +1,12 @@
+.receta{
+    background: #fdfdff;
+    display:flex;
+    flex-direction:column;
+    margin-bottom: 5rem;
+    margin-right:5rem;
+    width:calc(30% - 5rem);
+}
+
+.receta__imagen{
+    height: 200px;;
+}
